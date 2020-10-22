@@ -1,0 +1,7 @@
+{
+  "name": "retroTennis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

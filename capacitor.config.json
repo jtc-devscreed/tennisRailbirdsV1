@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.tennisrailbirds",
+  "appName": "Tennis Railbirds",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000
+    }
+  },
+  "cordova": {}
+}
